@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Shahad Tuglak  👋 </h1>
 <h3 align="center">🚀 Front End Web Developer | Open Source Contributer  ♥ | Freelancer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.instagram.com/p/B5JwTrIpEc8/?utm_source=ig_web_copy_link" />
+<!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.instagram.com/p/B5JwTrIpEc8/?utm_source=ig_web_copy_link" /> -->
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
