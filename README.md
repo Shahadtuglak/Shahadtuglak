@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Shahad Tuglak  👋 </h1>
-<h3 align="center">🚀 Front End Web Developer | Open Source Contributer  ♥ | Freelancer 🚀</h3>
+<h3 align="center">🚀 Front End Web Developer | ♥  Open Source Contributer  ♥ | Freelancer 🚀</h3>
 <div>
 <!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.instagram.com/p/B5JwTrIpEc8/?utm_source=ig_web_copy_link" /> -->
 <div align="left"> 
@@ -25,4 +25,11 @@
   </p>
 </div> 
 
-⭐️ From [Shahad Tuglak](https://github.com/Shahadtuglak)
+<div>
+  <h3> Keep In Touch🌍 </h3>
+  <p>
+    
+  </p>
+  </div>
+
+⭐️ From [Shahad Tuglak](https://shahadtuglak.github.io/portfolio/)
