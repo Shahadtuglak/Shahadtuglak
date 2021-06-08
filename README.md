@@ -20,7 +20,6 @@
     <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-    
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   </p>
 </div> 
