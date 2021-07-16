@@ -3,7 +3,7 @@
 <div>
 <!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.instagram.com/p/B5JwTrIpEc8/?utm_source=ig_web_copy_link" /> -->
 <div align="left"> 
-  <h3> �<img src="https://img.icons8.com/dusk/100/000000/superman.png"/>🏻‍💻 About Me </h3>
+  <h3>💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing website solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
