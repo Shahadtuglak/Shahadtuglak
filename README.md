@@ -32,6 +32,9 @@
 <div>
   <h3> Keep In Touch🌍 </h3>
   <p>
+    <a href="https://www.instagram.com/_shahad_tuglak_/">
+      <img src="https://img.icons8.com/office/48/000000/instagram.png"/>
+    </a>
     
   </p>
   </div>
