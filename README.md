@@ -35,6 +35,12 @@
     <a href="https://www.instagram.com/_shahad_tuglak_/">
       <img src="https://img.icons8.com/office/48/000000/instagram.png"/>
     </a>
+     <a href="https://www.linkedin.com/in/shahad-tuglak-29a955144/">
+      <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+    </a>
+     <a href="https://www.facebook.com/tuglak.shahad">
+      <img src="https://img.icons8.com/doodle/24/000000/facebook-new.png"/>
+    </a>
     
   </p>
   </div>
