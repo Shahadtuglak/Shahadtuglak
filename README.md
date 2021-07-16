@@ -39,8 +39,12 @@
       <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
     </a>
      <a href="https://www.facebook.com/tuglak.shahad">
-      <img src="https://img.icons8.com/doodle/24/000000/facebook-new.png"/>
+       <img src="https://img.icons8.com/dusk/50/000000/facebook-new--v2.png"/>
     </a>
+    <a href="https://github.com/Shahadtuglak">
+      <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+    </a>
+    
     
   </p>
   </div>
