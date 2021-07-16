@@ -44,6 +44,9 @@
     <a href="https://github.com/Shahadtuglak">
       <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
     </a>
+     <a href="https://twitter.com/ShahadTuglak">
+       <img src="https://img.icons8.com/plasticine/100/000000/twitter--v1.png"/>
+    </a>
     
     
   </p>
