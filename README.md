@@ -7,7 +7,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing website solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Progressive Web Apps & Website Development projects.
+  - 💼 &nbsp; I’m currently working on Progressive Web Apps & BackEnd Development projects.
   - 🌱 &nbsp; Learning more about  and Frontend Developement.
   - ✍️ &nbsp; Side hustle like Freelancing.  
 </div> 
@@ -19,8 +19,8 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    
+    <img src="https://img.icons8.com/wired/50/000000/php-logo.png"/>
   </p>
 </div> 
 
