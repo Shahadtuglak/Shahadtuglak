@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
  </p>
 </div> 
 
