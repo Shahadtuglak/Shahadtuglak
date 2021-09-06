@@ -8,7 +8,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing website solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Progressive Web Apps & BackEnd Development projects.
-  - 🌱 &nbsp; Learning more about  and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Frontend Developement & SEO Management.
   - ✍️ &nbsp; Side hustle like Freelancing.  
 </div> 
 </div>
