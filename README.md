@@ -19,12 +19,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
     <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/dusk/48/000000/github.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
