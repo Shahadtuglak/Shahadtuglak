@@ -7,8 +7,8 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing website solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Progressive Web Apps & BackEnd Development projects.
-  - 🌱 &nbsp; Learning more about Frontend Developement & SEO Management.
+  - 💼 &nbsp; I’m currently working on Progressive Web Apps.
+  - 🌱 &nbsp; Learning more about Frontend Developement.
   - ✍️ &nbsp; Side hustle like Freelancing.  
 </div> 
 </div>
@@ -25,7 +25,8 @@
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
-<img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+    <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   </p>
 </div> 
 
