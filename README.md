@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! I'm Shahad Tuglak  👋 </h1>
-<h3 align="center">🚀 Front End Web Developer | ♥  Open Source Contributer  ♥ | Freelancer 🚀</h3>
+<h3 align="center">🚀 Front End Developer | ♥  Open Source Contributer  ♥ | Freelancer 🚀</h3>
 <div>
 <!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.instagram.com/p/B5JwTrIpEc8/?utm_source=ig_web_copy_link" /> -->
 <div align="left"> 
   <h3>💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing website solutions.
+  - 🤔 &nbsp; Exploring new technologies and developing website & App solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Progressive Web Apps.
+  - 💼 &nbsp; I’m currently working on Mobile Apps.
   - 🌱 &nbsp; Learning more about Frontend Developement.
   - ✍️ &nbsp; Side hustle like Freelancing.  
 </div> 
